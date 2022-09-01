@@ -1,0 +1,7 @@
+// Contact Actions
+export const CREATE_CONTACT = 'CREATE_CONTACT';
+export const UPDATE_CONTACT = 'UPDATE_CONTACT';
+export const DELETE_CONTACT = 'DELETE_CONTACT';
+export const TEMP_CONTACT = 'TEMP_CONTACT';
+export const CLEAR_TEMP_CONTACT = 'CLEAR_TEMP_CONTACT';
+export const CLEAR_LOADING = 'CLEAR_LOADING';
